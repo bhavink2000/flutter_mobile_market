@@ -1,0 +1,97 @@
+name: market
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  get_storage: ^2.1.1
+  responsive_sizer: ^3.1.1
+  flutter_svg: ^2.0.7
+  shimmer: ^3.0.0
+  http: ^1.0.0
+  intl: ^0.18.1
+  device_info_plus: ^9.0.3
+  package_info_plus: ^4.0.2
+  path_provider: ^2.0.15
+  permission_handler: ^10.3.0
+  dio: ^5.2.1+1
+  # image_picker: ^0.8.9
+  web_socket_channel: ^2.4.0
+  expandable_bottom_sheet: ^1.1.1+1
+  swipeable_button_view: ^0.0.2
+  ticker_text: ^2.0.0
+  section_view: ^2.0.5
+  dropdown_button2: ^2.3.7
+  # searchable_dropdown: ^1.1.3
+  expansion_widget: ^0.0.3
+  flutter_calendar_carousel: ^2.4.2
+  flutter_share: ^2.0.0
+  # flutter_pdfview: ^1.2.7
+  slidable_button: ^3.0.0+1
+  get_ip_address: ^0.0.6
+  number_to_indian_words: ^1.0.1
+  file_saver: ^0.2.9
+  better_open_file: ^3.6.4
+  paginable: ^2.0.0
+  socket_io_client: ^2.0.3+1
+  firebase_core: ^2.21.0
+  firebase_crashlytics: ^3.4.3
+  firebase_analytics: ^10.6.3
+  firebase_messaging: ^14.7.3
+  flutter_local_notifications: ^16.1.0
+  flutter_slidable: ^3.0.1
+  input_quantity: ^2.2.0
+  animated_bottom_navigation_bar: ^1.3.0
+  flutter_styled_toast: ^2.2.1
+  url_launcher: ^6.2.3
+  flutter_super_html_viewer: ^0.1.0
+  youtube_player_iframe: ^5.1.1
+  assets_audio_player: ^3.1.1
+  visibility_detector: ^0.4.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  assets:
+    - resources/assets/
+    - resources/assets/images/
+    - resources/fonts/
+  fonts:
+    - family: Poppins-ExtraBold
+      fonts:
+        - asset: resources/fonts/Poppins-ExtraBold.ttf
+
+    - family: Poppins-SemiBold
+      fonts:
+        - asset: resources/fonts/Poppins-SemiBold.ttf
+
+    - family: Poppins-Medium
+      fonts:
+        - asset: resources/fonts/Poppins-Medium.ttf
+
+    - family: Poppins-Regular
+      fonts:
+        - asset: resources/fonts/Poppins-Regular.ttf
+
+    - family: Arial
+      fonts:
+        - asset: resources/fonts/Arial.ttf

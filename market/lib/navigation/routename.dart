@@ -1,0 +1,54 @@
+class RouterName {
+  static const String signInScreen = '/SignInScreen';
+  static const String mainTab = '/mainTab';
+  static const String filterscreen = '/filterscreen';
+  static const String filterExchangeScreen = '/filterExchangeScreen';
+  static const String SettingCreateNewUserScreen = '/SettingCreateNewUserScreen';
+  static const String SettingUserListScreen = '/SettingUserListScreen';
+  static const String SearchUserListScreen = '/SearchUserListScreen';
+  static const String UserListDetailsScreen = '/UserListDetailsScreen';
+  static const String UserListDetailsAddOrderScreen = '/UserListDetailsAddOrderScreen';
+  static const String UserListChangePasswordScreen = '/UserListChangePasswordScreen';
+  static const String UserListIntradayScreen = '/UserListIntradayScreen';
+  static const String SharingDetailsScreen = '/SharingDetailsScreen';
+  static const String brkSettingScreen = '/brkSettingScreen';
+  static const String GroupQuantityScreen = '/GroupQuantityScreen';
+  static const String quantitySettingScreen = '/quantitySettingScreen';
+  static const String AccountSummaryScreen = '/AccountSummaryScreen';
+  static const String GenerateBillScreen = '/GenerateBillScreen';
+  static const String WeeklyAdminScreen = '/WeeklyAdminScreen';
+  static const String IntradayHistoryScreen = '/IntradayHistoryScreen';
+  static const String PLScreen = '/PLScreen';
+  static const String ClientPLScreen = '/ClientPLScreen';
+  static const String SettlementReportScreen = '/SettlementReportScreen';
+  static const String UserWiseScreen = '/UserWiseScreen';
+  static const String ScriptQuantityScreen = '/ScriptQuantityScreen';
+  static const String SetQuantityValueScreen = '/SetQuantityValueScreen';
+  static const String SettingMessageScreen = '/SettingMessageScreen';
+  static const String MarketTimingScreen = '/MarketTimingScreen';
+  static const String SettingProfileScreen = '/SettingProfileScreen';
+  static const String SettingNotificationScreen = '/SettingNotificationScreen';
+  static const String SettingLoginHistoryScreen = '/SettingLoginHistoryScreen';
+  static const String GenerateBillPdfViewScreen = '/GenerateBillPdfViewScreen';
+  static const String notificationScreen = '/notificationScreen';
+  static const String rejectionLogScreen = '/rejectionLogScreen';
+  static const String openPositionScreen = '/openPositionScreen';
+  static const String homeInfoScreen = '/homeInfoScreen';
+  static const String positionInfoScreen = '/positionInfoScreen';
+  static const String tradeMarginScreen = '/tradeMarginScreen';
+  static const String scriptMasterScreen = '/scriptMasterScreen';
+  static const String tradeLogsScreen = '/tradeLogsScreen';
+  static const String tradeInfoScreen = '/tradeInfoScreen';
+  static const String historyOfCreditScreen = '/historyOfCreditScreen';
+  static const String symbolWisePositionReportScreen = '/symbolWisePositionReportScreen';
+  static const String userScriptPositionTracking = '/userScriptPositionTracking';
+  static const String profitAndLossScreen = '/profitAndLossScreen';
+  static const String accountReportScreen = '/accountReportScreen';
+  static const String htmlViewerScreen = '/htmlViewerScreen';
+  static const String bulkTradeScreen = '/bulkTradeScreen';
+  static const String videoPlayerscreen = '/videoPlayerscreen';
+  static const String creditGiveScreen = '/creditGiveScreen';
+  static const String userProfitLossScreen = '/userProfitLossScreen';
+
+  // GenerateBillPdfViewScreen
+}

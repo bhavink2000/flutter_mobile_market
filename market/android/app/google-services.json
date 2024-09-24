@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236935122892",
+    "project_id": "market-bdd97",
+    "storage_bucket": "market-bdd97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236935122892:android:5b19f2e954318672f81769",
+        "android_client_info": {
+          "package_name": "com.bazaarTest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mn_E-LmN9hyUU5vmIvuNLxiG8TpH3hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
